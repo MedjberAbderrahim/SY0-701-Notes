@@ -4,7 +4,8 @@ These are my notes for studying and passing CompTIA SY0-701 Security+, as I foll
 
 The goal of publishing these notes is to provide learning material for people looking to pass the CompTIA SY0-701 Security+ or study its course material, or maybe some notes for them to revise or to compare against.
 
-> [!note] Image & media display
+> [!NOTE]
+> ### Image & media display
 > Most of these note include images defined in Obsidian format (`[[FileName]]`), to be able to see them correctly, please install Obsidian in your PC, a free markdown note taking app.
 > If there exists any other platforms that support this format natively, or some fast, efficient, and automatable method to fix this formatting and make it more markdown-native (i.e. the `[FileName](FilePath)` format), I would be happy to know!
 
